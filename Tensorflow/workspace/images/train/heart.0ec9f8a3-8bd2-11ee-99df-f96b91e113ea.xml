@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>heart.0ec9f8a3-8bd2-11ee-99df-f96b91e113ea.jpg</filename>
+	<path>C:\Users\CHINMOY\SLR P\REALTIME OBJECT DETECTION\Tensorflow\workspace\images\collectedimages\heart.0ec9f8a3-8bd2-11ee-99df-f96b91e113ea.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Heart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>238</ymin>
+			<xmax>572</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

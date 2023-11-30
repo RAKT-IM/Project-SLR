@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>good.01562c1c-8bd2-11ee-8d69-f96b91e113ea.jpg</filename>
+	<path>C:\Users\CHINMOY\SLR P\REALTIME OBJECT DETECTION\Tensorflow\workspace\images\collectedimages\good.01562c1c-8bd2-11ee-8d69-f96b91e113ea.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>211</ymin>
+			<xmax>280</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>
